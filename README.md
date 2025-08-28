@@ -1,5 +1,6 @@
 <!DOCTYPE html><html lang="en">
-<head>
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8648198938608752"
+     crossorigin="anonymous"></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>EMI Calculator – Fast & Simple</title>
